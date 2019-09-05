@@ -1,6 +1,6 @@
 ### Quickly generate UUIDs 
 Using alfred, quickly generate UUIDs based on timestamps, which are easy to use: 
-1. Use the keyword cuiid to copy the generated uuid to the clipboard 
+1. Use the keyword cuuid to copy the generated uuid to the clipboard 
 2. Use snippet to generate uuid directly in the text editor.
 
 Download: [Web:UUID/KM UUID Generate.alfredworkflow at master · huhesper/UUID](https://github.com/huhesper/UUID/raw/master/KM%20UUID%20Generate.alfredworkflow)
